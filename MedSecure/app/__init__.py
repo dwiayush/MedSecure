@@ -1,1 +1,0 @@
-# MedSecure Application Package
